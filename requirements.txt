@@ -37,7 +37,6 @@ pandas==0.18.1
 partd==0.3.6
 python-dateutil==2.5.3
 pytz==2016.6.1
-six==1.10.0
 toolz==0.8.0
 ~               
 
