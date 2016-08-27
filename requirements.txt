@@ -28,7 +28,7 @@ smart-open==1.3.3
 bokeh==0.11.1
 py2neo==2.0.9
 mlxtend==0.4.2
-aeo4j-driver==1.0.2
+neo4j-driver==1.0.2
 dask==0.11.0
 graphviz==0.4.10
 h5py==2.6.0
@@ -38,8 +38,7 @@ partd==0.3.6
 python-dateutil==2.5.3
 pytz==2016.6.1
 toolz==0.8.0
-~               
-
+feather==0.9.1.dev0
 
 
 

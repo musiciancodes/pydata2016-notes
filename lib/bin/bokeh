@@ -1,0 +1,7 @@
+#!/Users/ylin11/Code/Sandbox/EverythingSandbox/pydata2016-notes/lib/bin/python2.7
+
+import sys
+
+from bokeh.command.bootstrap import main
+
+main(sys.argv)

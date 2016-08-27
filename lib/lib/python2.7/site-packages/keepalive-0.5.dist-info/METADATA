@@ -1,0 +1,27 @@
+Metadata-Version: 2.0
+Name: keepalive
+Version: 0.5
+Summary: urllib keepalive support for python
+Home-page: https://github.com/wikier/keepalive
+Author: Sergio Fernández
+Author-email: sergio@wikier.org
+License: GNU LGPL
+Download-URL: https://github.com/wikier/keepalive/releases
+Keywords: python http urllib keepalive
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+
+An HTTP handler for `urllib2` that supports HTTP 1.1 and keepalive.
+
+

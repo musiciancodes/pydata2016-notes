@@ -1,0 +1,8 @@
+#!/Users/ylin11/Code/Sandbox/EverythingSandbox/pydata2016-notes/lib/bin/python2.7
+
+print("""
+The 'bokeh-server' command from versions 0.10 and earlier no longer exists.
+Please see the documentation for the new 'bokeh' command here:
+
+  http://bokeh.pydata.org/en/latest/docs/user_guide/cli.html
+""")

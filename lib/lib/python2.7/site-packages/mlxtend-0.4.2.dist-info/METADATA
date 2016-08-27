@@ -1,0 +1,51 @@
+Metadata-Version: 2.0
+Name: mlxtend
+Version: 0.4.2
+Summary: Machine Learning Library Extensions
+Home-page: https://github.com/rasbt/mlxtend
+Author: Sebastian Raschka
+Author-email: mail@sebastianraschka.com
+License: BSD 3-Clause
+Platform: any
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Scientific/Engineering :: Image Recognition
+Requires-Dist: numpy (>=1.10.4)
+Requires-Dist: scipy (>=0.17)
+Provides-Extra: docs
+Requires-Dist: mkdocs; extra == 'docs'
+Provides-Extra: testing
+Requires-Dist: nose; extra == 'testing'
+
+
+
+A library of Python tools and extensions for data science.
+
+
+Contact
+=============
+
+If you have any questions or comments about mlxtend,
+please feel free to contact me via
+eMail: mail@sebastianraschka.com
+or Twitter: https://twitter.com/rasbt
+
+This project is hosted at https://github.com/rasbt/mlxtend
+
+The documentation can be found at http://rasbt.github.io/mlxtend/
+
+
+

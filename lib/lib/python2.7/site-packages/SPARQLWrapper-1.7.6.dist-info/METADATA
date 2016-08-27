@@ -1,0 +1,23 @@
+Metadata-Version: 2.0
+Name: SPARQLWrapper
+Version: 1.7.6
+Summary: SPARQL Endpoint interface to Python
+Home-page: http://rdflib.github.io/sparqlwrapper
+Author: Ivan Herman, Sergio Fernández, Carlos Tejo Alonso, Alexey Zakhlestin
+Author-email: ivan at ivan-herman net, sergio at wikier org, carlos.tejo at gmail com, indeyets at gmail com
+License: W3C SOFTWARE NOTICE AND LICENSE
+Download-URL: https://github.com/RDFLib/sparqlwrapper/releases
+Keywords: python sparql rdf rdflib
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: W3C License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: keepalive (>=0.5)
+Requires-Dist: rdflib (>=4.0)
+
+This is a wrapper around a SPARQL service. It helps in creating the query URI and, possibly, convert the result into a more manageable format.
+
+
