@@ -29,9 +29,6 @@ bokeh==0.11.1
 py2neo==2.0.9
 mlxtend==0.4.2
 aeo4j-driver==1.0.2
-
-
-
 dask==0.11.0
 graphviz==0.4.10
 h5py==2.6.0
