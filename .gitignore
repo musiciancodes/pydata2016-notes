@@ -1,4 +1,4 @@
 .DS_Store
 .ipynb_checkpoints/Notes from PyData 16-checkpoint.ipynb
 lib/*
-*.csv
+Food_Inspections.csv
